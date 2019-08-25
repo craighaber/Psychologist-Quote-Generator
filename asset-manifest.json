@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/psychologist-quote-generator/static/css/main.87eed07c.chunk.css",
+    "main.js": "/psychologist-quote-generator/static/js/main.371b7159.chunk.js",
+    "main.js.map": "/psychologist-quote-generator/static/js/main.371b7159.chunk.js.map",
+    "runtime~main.js": "/psychologist-quote-generator/static/js/runtime~main.4382b6d9.js",
+    "runtime~main.js.map": "/psychologist-quote-generator/static/js/runtime~main.4382b6d9.js.map",
+    "static/js/2.aa7c335a.chunk.js": "/psychologist-quote-generator/static/js/2.aa7c335a.chunk.js",
+    "static/js/2.aa7c335a.chunk.js.map": "/psychologist-quote-generator/static/js/2.aa7c335a.chunk.js.map",
+    "index.html": "/psychologist-quote-generator/index.html",
+    "precache-manifest.b692753c9dfdcf740e38c06a79cb203f.js": "/psychologist-quote-generator/precache-manifest.b692753c9dfdcf740e38c06a79cb203f.js",
+    "service-worker.js": "/psychologist-quote-generator/service-worker.js",
+    "static/css/main.87eed07c.chunk.css.map": "/psychologist-quote-generator/static/css/main.87eed07c.chunk.css.map"
+  }
+}
